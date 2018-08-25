@@ -1,30 +1,35 @@
 # 100 Days Of Code - Log
+> - #100daysofCodeInBlockChain
+> - I am a BlockChain Developer. 
+> - I will be learining and Practicing below technologies/protocols.
+>> 1. Cryptocurrencies and Algorithmns
+>> 2. BitCoin programming Basics
+>> 3. Ethereum DAPPs
+>> 4. Hyperledger Fabric
+>> 5. Block Chain Use Cases 
+>> 6. Solidity programming
+>> 7. D3.JS
+>> 8. Micro services
+>> 9. React-Redux
+>> 10. Exploring some of the other available ICOs options:
+>> - Ethereum, Waves, NXT, NEM, EOS, Stellar
+>> 11. Exploring new BlockChains: 
+>> - Corda, Ripple, Quorum, BigChainDB
+>> 12. These groups are associated with large number of groups. Let's build projects on available protocols of these groups:
+>> - Consensys Group
+>> - ETHGlobal/ETHIndia Group
+>> - IBC [International BlockChain Congress] Group
+>> Plasma.io
+>> Follow Vitalic, Consensys group's and ETHGlobal group's Announcements on what's new to Ethereum/BlockChain
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link to work:** [Calculator App](http://www.example.com)
-
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
 
 
-### Day 1: June 27, Monday
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+### Day 1: August 26, 2018 
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Today's Progress**: Excited!! Let's Start. Will Start with D3.JS
 
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**Thoughts:** Still In Progress
+
+**Link to work:** [D3JS Examples](https://github.com/KushalGH/d3_js_poc)
+
