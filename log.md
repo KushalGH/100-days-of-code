@@ -19,8 +19,8 @@
 >> - Consensys Group
 >> - ETHGlobal/ETHIndia Group
 >> - IBC [International BlockChain Congress] Group
->> Plasma.io
->> Follow Vitalic, Consensys group's and ETHGlobal group's Announcements on what's new to Ethereum/BlockChain
+>> 13. Plasma.io
+>> 14. Follow Vitalic, Consensys group's and ETHGlobal group's Announcements on what's new to Ethereum/BlockChain
 
 
 
