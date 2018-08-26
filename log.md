@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 > - #100daysofCodeInBlockChain
-> - I am a BlockChain Developer. 
+> - I am a BlockChain and Full Stack Web Developer. 
 > - I will be learining and Practicing below technologies/protocols.
 >> 1. Cryptocurrencies and Algorithmns
 >> 2. BitCoin programming Basics
@@ -21,15 +21,18 @@
 >> - IBC [International BlockChain Congress] Group
 >> 13. Plasma.io
 >> 14. Follow Vitalic, Consensys group's and ETHGlobal group's Announcements on what's new to Ethereum/BlockChain
+>> 15. Phyton
+>> 16. ML
+>> 17. IOT
 
 
 
 
 ### Day 1: August 26, 2018 
 
-**Today's Progress**: Excited!! Let's Start. Will Start with D3.JS
+**Today's Progress**: Excited!! Let's Start. Started with D3.JS
 
-**Thoughts:** Still In Progress
+**Thoughts:** Visualization of Data in the form of charts and Maps. Worked on basic examples like Geometrical shapes, bar Charts, Multi Value maps. Facing issue in using selection-multi of D3. Will reesolve in an hour
 
 **Link to work:** [D3JS Examples](https://github.com/KushalGH/d3_js_poc)
 
