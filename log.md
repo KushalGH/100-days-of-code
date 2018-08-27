@@ -36,3 +36,11 @@
 
 **Link to work:** [D3JS Examples](https://github.com/KushalGH/d3_js_poc)
 
+### Day 2: August 27, 2018 
+
+**Today's Progress**: D3.JS: Worked on Lines and upgraded from D3JS version 3 to version 5 
+
+**Thoughts:** It's a big different in D3 version 3 and version 5. So, If anyone thinks to start, then please start with version 5 of D3JS
+
+**Link to work:** [D3JS Examples](https://github.com/KushalGH/d3_js_poc)
+
