@@ -44,3 +44,10 @@
 
 **Link to work:** [D3JS Examples](https://github.com/KushalGH/d3_js_poc)
 
+### Day 3: August 28, 2018 
+
+**Today's Progress**: BlockChain use case for Disaster Manegement
+
+**Thoughts:** Whenever I try to understand new use case of BlockChain, I start loving BlockChain more. 
+
+**Link to work:** [BlockChain_disaster_management](https://github.com/KushalGH/blockchain_disastermanagement)
