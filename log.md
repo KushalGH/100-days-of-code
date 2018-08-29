@@ -51,3 +51,12 @@
 **Thoughts:** Whenever I try to understand new use case of BlockChain, I start loving BlockChain more. 
 
 **Link to work:** [BlockChain_disaster_management](https://github.com/KushalGH/blockchain_disastermanagement)
+
+
+### Day 4: August 29, 2018 
+
+**Today's Progress**: Environment Setup on fresh Ubuntu operating system for BlockChain. 
+
+**Thoughts:** I was using Windows for BlockChain Development, but was facing some issues while installing GETH. So, moved to Ubuntu. This repository will help to setup ubuntu system for BlockChain Development.
+
+**Link to work:** [Environment Setup on Ubuntu for BlockChain](https://github.com/KushalGH/blockchain_newsystem_configure_build_DAPP/blob/master/README.md)
