@@ -60,3 +60,13 @@
 **Thoughts:** I was using Windows for BlockChain Development, but was facing some issues while installing GETH. So, moved to Ubuntu. This repository will help to setup ubuntu system for BlockChain Development.
 
 **Link to work:** [Environment Setup on Ubuntu for BlockChain](https://github.com/KushalGH/blockchain_newsystem_configure_build_DAPP/blob/master/README.md)
+
+
+
+### Day 5: August 30, 2018 
+
+**Today's Progress**: Time for SOLIDITY and Let's try OutputCache in C#
+
+**Thoughts:** Re-Started with Solidity and tried OutputCache in C#
+
+**Link to work:** [SOLIDITY](https://github.com/KushalGH/solidity)
