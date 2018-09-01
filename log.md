@@ -80,3 +80,14 @@
 **Thoughts:** Structured the Application for BlockChain Use for Disaster Management 
 
 **Link to work:** [BlockChain_disaster_management](https://github.com/KushalGH/blockchain_disastermanagement)
+
+
+
+
+### Day 7: September 1, 2018 
+
+**Today's Progress**: NASA Space Hackathon: BlockChain use case for Disaster Manegement
+
+**Thoughts:** Build a working Application of Disaster Maneagement using BlockChain 
+
+**Link to work:** [BlockChain_disaster_management](https://github.com/KushalGH/blockchain_disastermanagement)
