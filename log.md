@@ -79,4 +79,4 @@
 
 **Thoughts:** Structured the Application for BlockChain Use for Disaster Management 
 
-**Link to work:** [SOLIDITY](https://github.com/KushalGH/solidity)
+**Link to work:** [BlockChain_disaster_management](https://github.com/KushalGH/blockchain_disastermanagement)
