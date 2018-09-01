@@ -70,3 +70,13 @@
 **Thoughts:** Re-Started with Solidity and tried OutputCache in C#
 
 **Link to work:** [SOLIDITY](https://github.com/KushalGH/solidity)
+
+
+
+### Day 6: August 31, 2018 
+
+**Today's Progress**: NASA Space Hackathon: BlockChain use case for Disaster Manegement
+
+**Thoughts:** Structured the Application for BlockChain Use for Disaster Management 
+
+**Link to work:** [SOLIDITY](https://github.com/KushalGH/solidity)
