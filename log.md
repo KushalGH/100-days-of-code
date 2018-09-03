@@ -103,3 +103,13 @@
 **Thoughts:** D3 Basic Examples 
 
 **Link to work:** [D3JS Examples](https://github.com/KushalGH/d3_js_poc)
+
+
+
+### Day 9: September 3, 2018 
+
+**Today's Progress**: SMART Contract that will allow the Autonomous Cars to pay their Tolls. 
+
+**Thoughts:** Solidity is always amazing
+
+**Link to work:** [Car Payments](https://github.com/KushalGH/car_payments_smart_contract)
