@@ -91,3 +91,15 @@
 **Thoughts:** Build a working Application of Disaster Maneagement using BlockChain 
 
 **Link to work:** [BlockChain_disaster_management](https://github.com/KushalGH/blockchain_disastermanagement)
+
+
+
+
+
+### Day 8: September 2, 2018 
+
+**Today's Progress**: D3 Basic Examples
+
+**Thoughts:** D3 Basic Examples 
+
+**Link to work:** [D3JS Examples](https://github.com/KushalGH/d3_js_poc)
