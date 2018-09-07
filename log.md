@@ -113,3 +113,17 @@
 **Thoughts:** Solidity is always amazing
 
 **Link to work:** [Car Payments](https://github.com/KushalGH/car_payments_smart_contract)
+
+
+
+### Day 10: September 4, 2018 
+
+**Today's Progress**: RSA Algorithm 
+
+**Thoughts:** RSA Cryptography Algorithm. A algorithm, with which you can encrypt by one key and can decrypt by another.
+
+I came across very cool website that can solve mathematical problems online
+
+wolframalpha.com
+
+**Link to work:** [RSA Algorithm](https://github.com/KushalGH/Algorithms/tree/master/rsa_algorithm)
