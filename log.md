@@ -127,3 +127,12 @@ I came across very cool website that can solve mathematical problems online
 wolframalpha.com
 
 **Link to work:** [RSA Algorithm](https://github.com/KushalGH/Algorithms/tree/master/rsa_algorithm)
+
+
+### Day 11: September 8, 2018 
+
+**Today's Progress**: RSA Algorithm and Bitcoin Script
+
+**Thoughts:** Solving RSA Algorithms and Bitcoin scripts was quite intersting.  
+
+**Link to work:** [Algorithms](https://github.com/KushalGH/Algorithms/)
