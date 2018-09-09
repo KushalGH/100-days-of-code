@@ -136,3 +136,14 @@ wolframalpha.com
 **Thoughts:** Solving RSA Algorithms and Bitcoin scripts was quite intersting.  
 
 **Link to work:** [Algorithms](https://github.com/KushalGH/Algorithms/)
+
+
+
+
+### Day 12: September 9, 2018 
+
+**Today's Progress**: Continued with Bitcoinscripts. Consensus in Bitcoin, Why and what!! 
+
+**Thoughts:** Continued with #Bitcoinscripts. Consensus in Bitcoin: Why: "Ensure correct operations in the presence of faulty individuals" Properties: "Termination", "Validity", "Integrity", "Agreement" 
+
+**Link to work:** [Algorithms](https://github.com/KushalGH/Algorithms/)
