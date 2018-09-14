@@ -147,3 +147,12 @@ wolframalpha.com
 **Thoughts:** Continued with #Bitcoinscripts. Consensus in Bitcoin: Why: "Ensure correct operations in the presence of faulty individuals" Properties: "Termination", "Validity", "Integrity", "Agreement" 
 
 **Link to work:** [Algorithms](https://github.com/KushalGH/Algorithms/)
+
+
+### Day 13-17: September 10 - September 14, 2018 
+
+**Today's Progress**: Build a basic DAPP and hosted on different environments: local, using Ganache, using TestRPC, Ropsten and Rinkeby
+
+**Thoughts:** My main focus was to practice different deployment environments. Configurating new system for Ropsten is tough. Trying to build a proper doc which anyone can use to build the DAPP. Still struggling with some minor issue in Ropsten network, may figureout in few hours. 
+
+**Link to work:** [BlockChain](https://github.com/KushalGH/blockchain_newsystem_configure_build_DAPP)
