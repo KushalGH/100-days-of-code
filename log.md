@@ -156,3 +156,12 @@ wolframalpha.com
 **Thoughts:** My main focus was to practice different deployment environments. Configurating new system for Ropsten is tough. Trying to build a proper doc which anyone can use to build the DAPP. Still struggling with some minor issue in Ropsten network, may figureout in few hours. 
 
 **Link to work:** [BlockChain](https://github.com/KushalGH/blockchain_newsystem_configure_build_DAPP)
+
+
+### Day 18: September 15, 2018 
+
+**Today's Progress**: Started Udacity Nanodegree Program
+
+**Thoughts:** The course design is very interative and activties in between the lessons makes it more interesting. 
+
+**Link to work:** [BlockChain](https://github.com/KushalGH/blockchain_newsystem_configure_build_DAPP)
