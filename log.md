@@ -165,3 +165,18 @@ wolframalpha.com
 **Thoughts:** The course design is very interative and activties in between the lessons makes it more interesting. 
 
 **Link to work:** [BlockChain](https://github.com/KushalGH/blockchain_newsystem_configure_build_DAPP)
+
+
+### Day 19: September 16, 2018 
+
+**Today's Progress**: #bitcoin_verify_sign_txn
+
+**Thoughts:** Loved signing and verifing the Txns
+Sign Txn: 
+PrivateKey + msg -> Signing Algo -> Signature
+
+Verify Txn: 
+wallet address + signature + msg -> Verification Algor -> true/false
+
+
+**Link to work:** [Bitcoin](https://t.co/wk1CGlmVPe)
