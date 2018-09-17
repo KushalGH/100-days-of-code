@@ -180,3 +180,14 @@ wallet address + signature + msg -> Verification Algor -> true/false
 
 
 **Link to work:** [Bitcoin](https://t.co/wk1CGlmVPe)
+
+
+### Day 20: September 17, 2018 
+
+**Today's Progress**: Ethereum based game
+
+**Thoughts:** I just completed #CryptoZombies Lesson 1 and learned the basics of coding a game on #Ethereum. Take a look at the first zombie in my army! 
+
+
+**Link to work:** [Zombie](https://t.co/Gpo1qGJaxh) 
+                  [Git](https://github.com/KushalGH/cryptocurreny_zombie_battle)
