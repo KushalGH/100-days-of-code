@@ -26,8 +26,17 @@
 >> 17. IOT
 
 
+### Day 21: September 18, 2018 
 
-**Link to work:** [Bitcoin](https://t.co/wk1CGlmVPe)
+**Today's Progress**: Ethereum based game 
+
+**Thoughts:** I just completed #CryptoZombies Lesson 2! My zombie ate some #CryptoKitties, and I learned more about #Ethereum development. Watch my zombie battle more CryptoKitties: 
+https://t.co/zhMTU92DUh
+
+
+**Link to work:** [Zombie](https://t.co/zhMTU92DUh) 
+                  [Git](https://github.com/KushalGH/cryptocurreny_zombie_battle)
+
 
 
 ### Day 20: September 17, 2018 
@@ -55,6 +64,7 @@ PrivateKey + msg -> Signing Algo -> Signature
 Verify Txn: 
 wallet address + signature + msg -> Verification Algor -> true/false
 
+**Link to work:** [Bitcoin](https://t.co/wk1CGlmVPe)
 
 ### Day 18: September 15, 2018 
 
