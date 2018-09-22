@@ -25,6 +25,27 @@
 >> 16. ML
 >> 17. IOT
 
+### Day 23: September 22, 2018 
+
+**Today's Progress**: Ethereum based game 
+
+**Thoughts:** I just completed #CryptoZombies Lesson 4, and defeated the evil IOTA zombie! Try it out yourself: 
+
+
+**Link to work:** [Zombie](https://share.cryptozombies.io/en/lesson/4/share/EthZombie?id=WyJnaXRodWJ8MTAyOTU0MTEiLDIsMTRd) 
+                  [Git](https://github.com/KushalGH/cryptocurreny_zombie_battle)
+
+### Day 22: September 20, 2018 
+
+**Today's Progress**: Ethereum based game 
+
+**Thoughts:** I just completed #CryptoZombies Lesson 3! Check out my zombie army: 
+
+
+**Link to work:** [Zombie](https://t.co/Zq3JVfxBZO) 
+                  [Git](https://github.com/KushalGH/cryptocurreny_zombie_battle)
+
+
 
 ### Day 21: September 18, 2018 
 
