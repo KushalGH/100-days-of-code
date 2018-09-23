@@ -25,6 +25,21 @@
 >> 16. ML
 >> 17. IOT
 
+### Day 24: September 23, 2018 
+
+**Today's Progress**: Ethereum based game using ERC 721 token and creating tradable tokens / assets 
+
+**Thoughts:** Tokens, the ERC721 standard, and creating tradable tokens / assets 
+			  Solidity libraries and how to use them
+			  The SafeMath library and preventing uint overflows and underflows
+			  OpenZepllin standards
+			  Commenting your Solidity code and the natspec standard
+
+
+**Link to work:** [Zombie](https://share.cryptozombies.io/en/lesson/5/share/H4XF13LD_MORRIS_%F0%9F%92%AF%F0%9F%92%AF%F0%9F%98%8E%F0%9F%92%AF%F0%9F%92%AF?id=Z2l0aHVifDEwMjk1NDEx) 
+                  [Git](https://github.com/KushalGH/cryptocurreny_zombie_battle)
+
+
 ### Day 23: September 22, 2018 
 
 **Today's Progress**: Ethereum based game 
