@@ -25,6 +25,27 @@
 >> 16. ML
 >> 17. IOT
 
+### Day 26 - 27: September 29 - 30, 2018 
+**Today's Progress**: What an amazing experience. Last two days, building my private blockchain using #nodeJS @LevelDB 
+**Thoughts:** It feels great when u actually code for 2 days continuously and gets a great product
+**Link to work:** https://t.co/y4AOFhpnvG
+
+
+
+### Day 25: September 25, 2018 
+
+**Today's Progress**: Completed Building #ethereum based game using #ethereum #smartcontracts #erc721 token and #web3 
+
+**Thoughts:** In order to complete Lesson 6 of CryptoZombies, learned about:
+
+    Building web front-ends for Ethereum smart contracts using Web3.js
+    Using MetaMask and Infura to build user-facing DApps
+    Listening to smart contract events and showing users real-time updates
+
+
+**Link to work:** [Zombie](https://share.cryptozombies.io/en/lesson/6/share/The_Phantom_of_Web3?id=Z2l0aHVifDEwMjk1NDEx)
+                  [Git](https://github.com/KushalGH/cryptocurreny_zombie_battle)
+
 ### Day 24: September 23, 2018 
 
 **Today's Progress**: Ethereum based game using ERC 721 token and creating tradable tokens / assets 
