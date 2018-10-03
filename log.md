@@ -25,6 +25,12 @@
 >> 16. ML
 >> 17. IOT
 
+
+### Day 28: OCTOBER 3, 2018
+***Today's Progress*** NODEJS Webservices integration with Private Blockchain. Would be exploring the same for next few days.
+ 
+
+
 ### Day 26 - 27: September 29 - 30, 2018 
 **Today's Progress**: What an amazing experience. Last two days, building my private blockchain using #nodeJS @LevelDB 
 **Thoughts:** It feels great when u actually code for 2 days continuously and gets a great product
