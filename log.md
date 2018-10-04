@@ -25,10 +25,16 @@
 >> 16. ML
 >> 17. IOT
 
+### Day 29: OCTOBER 4, 2018
+***Today's Progress*** @expressjs and @sailsjs has given a very easy getting started guide. Focus is to integrate with private Blockchain
+
+**Link to work:** https://t.co/k17vDcM6qJ
+
+
 
 ### Day 28: OCTOBER 3, 2018
 ***Today's Progress*** NODEJS Webservices integration with Private Blockchain. Would be exploring the same for next few days.
- 
+**Link to work:** https://t.co/k17vDcM6qJ
 
 
 ### Day 26 - 27: September 29 - 30, 2018 
