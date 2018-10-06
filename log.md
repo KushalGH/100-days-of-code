@@ -25,6 +25,16 @@
 >> 16. ML
 >> 17. IOT
 
+### Day 30: OCTOBER 5, 2018
+Day 30 | #100DaysOfCode | #100DaysOfBlockChain | #100DaysOfX  
+
+Worked on @nodejs API @hapijs. Would be working to get and create new block to my private #blockchain POC
+
+See live streaming of world's biggest Blockchain event  http://ethsanfrancisco.com/live
+
+#ethsanfrancisco #BUIDL
+
+
 ### Day 29: OCTOBER 4, 2018
 ***Today's Progress*** @expressjs and @sailsjs has given a very easy getting started guide. Focus is to integrate with private Blockchain
 
