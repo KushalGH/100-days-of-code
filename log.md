@@ -25,6 +25,17 @@
 >> 16. ML
 >> 17. IOT
 
+
+### Day 31: OCTOBER 8, 2018
+Day 31 | #100DaysOfCode | #100DaysOfBlockChain | #100DaysOfX  
+
+Complete POC: Interaction of @hapijs with private #blockchain using #LevelDB #nodeJS
+
+http://bit.ly/2zX1GU2
+
+#BUIDL  #dapp #NanodegreeAccelerator #ProjectOfTheDay #ethereum #blockchain_nd #blockchaintechnology
+
+
 ### Day 30: OCTOBER 5, 2018
 Day 30 | #100DaysOfCode | #100DaysOfBlockChain | #100DaysOfX  
 

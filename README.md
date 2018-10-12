@@ -1,4 +1,48 @@
-# I've joined the #100DaysOfCode Challenge
+# I've joined the #100DaysOfCode #100DaysOfBlockChain Challenge
+
+
+##### IS #100DaysOfCode for you 
+
+Are you the one, then join me at #100DaysOfCode #100DaysOf: 
+>> - You don't know code
+>> - You don't know from where to start
+>> - You are puzzled, what to do or from where to start
+>> - Newbie
+>> - Experienced and willing to start new thing
+>> - Wants to learn something new.
+
+##### BUILD YOUR OWN 100Days coding plan. My only suggestion is: 
+>> "CODE ANYTHING AS SIMPLE AS PRINTING RESULTS ON CONSOLE. BUT CODE DAILY".
+
+
+##### Can't forget to thanks @ka11away for #100DaysOfCode. [@ka11away](https://twitter.com/ka11away)
+
+
+##### IS #100DaysOfBlockChain for you 
+
+I thought why not, let's do it. Let's show what we build using #100DaysOfBlockChain on Twitter
+>> - Blockchain is new. A lot to learn.
+>> - You can find the community on Twitter. following #100DaysOfBlockChain
+>> - What developers are doing on BlockChain
+
+
+##### Review the Process
+
+>> I would suggest to review your process after every 20 days. 
+>> I have created a new file: [reviewing my progress](reviewingtheprocess.md)
+
+##### Write your Progress and Tweet.
+
+>> Write your daily process to log file. [Log - click here to see my progress](log.md)
+>> Tweet using tag #100DaysOfCode or #100DaysOfBlockChain
+
+##### Alumnus (Alumni) and Alumna (Alumnae) 
+
+>> Let's join the family of Alumni amd Alumnae. 
+>> You can find the Alumni and Alumnae of your field.
+>> I have created a file [alumnae_alumni_list](alumnae_alumni_list.md) where I will #build a list of people who are currently pursuing and already completed #100DaysOfCode 
+>> Will try to categorize according to different #100DaysOfX
+
 
 ## Contents
 
