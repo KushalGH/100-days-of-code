@@ -57,7 +57,7 @@ I thought why not, let's do it. Let's show what we build using #100DaysOfBlockCh
 
 ![images](images/001_review.png)
 
->> - REVIEW 2
+>> - Plan for next 25 days
 
 ![images](images/002_review.png)
 
