@@ -28,11 +28,6 @@ I thought why not, let's do it. Let's show what we build using #100DaysOfBlockCh
 >> - What developers are doing on BlockChain
 
 
-##### Review the Process
-
->> - I would suggest to review your process after every 20 days. 
->> - I have created a new file: [reviewing my progress](reviewingtheprocess.md)
-
 ##### Write your Progress and Tweet.
 
 >> - Write your daily process to log file. [Log - click here to see my progress](log.md)
@@ -52,6 +47,19 @@ I thought why not, let's do it. Let's show what we build using #100DaysOfBlockCh
 >> - The Alumnus (Alumni) and Alumna (Alumnae) list file is not available in original Repo
 >> - Review your Progress file is also not available in Original repo
 
+
+##### Review the Process
+
+>> - I would suggest to review your process after every 20 days. 
+>> - I have created a new file: [reviewing my progress](reviewingtheprocess.md)
+
+>> - REVIEW 1
+
+![images](images/001_review.png)
+
+>> - REVIEW 2
+
+![images](images/002_review.png)
 
 
 ## Contents
