@@ -43,6 +43,9 @@ I thought why not, let's do it. Let's show what we build using #100DaysOfBlockCh
 >> - I have created a file [alumnae_alumni_list](alumnae_alumni_list.md) where I will #build a list of people who are currently pursuing and already completed #100DaysOfCode 
 >> - Will try to categorize according to different #100DaysOfX
 
+#Notes:
+>> - The Alumnus (Alumni) and Alumna (Alumnae) list file is not available in original Repo
+>> - Review your Progress file is also not available in Original repo
 
 ## Contents
 
