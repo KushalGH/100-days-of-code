@@ -28,20 +28,20 @@ I thought why not, let's do it. Let's show what we build using #100DaysOfBlockCh
 
 ##### Review the Process
 
->> I would suggest to review your process after every 20 days. 
->> I have created a new file: [reviewing my progress](reviewingtheprocess.md)
+>> - I would suggest to review your process after every 20 days. 
+>> - I have created a new file: [reviewing my progress](reviewingtheprocess.md)
 
 ##### Write your Progress and Tweet.
 
->> Write your daily process to log file. [Log - click here to see my progress](log.md)
->> Tweet using tag #100DaysOfCode or #100DaysOfBlockChain
+>> - Write your daily process to log file. [Log - click here to see my progress](log.md)
+>> - Tweet using tag #100DaysOfCode or #100DaysOfBlockChain
 
 ##### Alumnus (Alumni) and Alumna (Alumnae) 
 
->> Let's join the family of Alumni amd Alumnae. 
->> You can find the Alumni and Alumnae of your field.
->> I have created a file [alumnae_alumni_list](alumnae_alumni_list.md) where I will #build a list of people who are currently pursuing and already completed #100DaysOfCode 
->> Will try to categorize according to different #100DaysOfX
+>> - Let's join the family of Alumni amd Alumnae. 
+>> - You can find the Alumni and Alumnae of your field.
+>> - I have created a file [alumnae_alumni_list](alumnae_alumni_list.md) where I will #build a list of people who are currently pursuing and already completed #100DaysOfCode 
+>> - Will try to categorize according to different #100DaysOfX
 
 
 ## Contents
