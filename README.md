@@ -1,5 +1,7 @@
 # I've joined the #100DaysOfCode #100DaysOfBlockChain Challenge
 
+#FORK ME 
+
 
 ##### IS #100DaysOfCode for you 
 
@@ -36,16 +38,21 @@ I thought why not, let's do it. Let's show what we build using #100DaysOfBlockCh
 >> - Write your daily process to log file. [Log - click here to see my progress](log.md)
 >> - Tweet using tag #100DaysOfCode or #100DaysOfBlockChain
 
-##### Alumnus (Alumni) and Alumna (Alumnae) 
 
->> - Let's join the family of Alumni amd Alumnae. 
->> - You can find the Alumni and Alumnae of your field.
->> - I have created a file [alumnae_alumni_list](alumnae_alumni_list.md) where I will #build a list of people who are currently pursuing and already completed #100DaysOfCode 
->> - Will try to categorize according to different #100DaysOfX
+##### Join Hands with your Alumnus (Alumni) and Alumna (Alumnae)
+* Let's join the family of Alumni amd Alumnae.
+* You can find the Alumni and Alumnae of your field.
+* I have created a file [alumnae_alumni_list](alumnae_alumni_list.md) where I will #build a list of people who have successfully completed #100DaysOfCode
+* Will try to categorize according to different #100DaysOfX
+* If you have completed your challenge then just create a Pull request with title "Alumnae & Alumni Update".
+
+
 
 #Notes:
 >> - The Alumnus (Alumni) and Alumna (Alumnae) list file is not available in original Repo
 >> - Review your Progress file is also not available in Original repo
+
+
 
 ## Contents
 
