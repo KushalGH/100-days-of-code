@@ -48,6 +48,15 @@ I thought why not, let's do it. Let's show what we build using #100DaysOfBlockCh
 >> - Review your Progress file is also not available in Original repo
 
 
+
+##### My way of doing #100daysofcode & #100daysofblockchain
+>> I code daily and must check-in my code.
+>> I never increase my counter if my hours of code is less then 1-2 hours. or if it's not actually related to #100daysofblockchain.
+>> Let's focus on quality work, instead of just focusing on increasing the counter.
+>> I will be more then happy If I completes what I have decided, even in 120 days with #100 counter.
+>> Focus on Quality and be happy. and literally u can skip one day to regain your focus on learning. But don't miss more then 1-2 days.
+
+
 ##### Review the Process
 
 >> - I would suggest to review your process after every 20 days. 
@@ -60,6 +69,7 @@ I thought why not, let's do it. Let's show what we build using #100DaysOfBlockCh
 >> - Plan for next 25 days
 
 ![images](images/002_review.png)
+
 
 
 ## Contents
