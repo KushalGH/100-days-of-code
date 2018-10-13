@@ -35,11 +35,11 @@ I thought why not, let's do it. Let's show what we build using #100DaysOfBlockCh
 
 
 ##### Join Hands with your Alumnus (Alumni) and Alumna (Alumnae)
-* Let's join the family of Alumni amd Alumnae.
-* You can find the Alumni and Alumnae of your field.
-* I have created a file [alumnae_alumni_list](alumnae_alumni_list.md) where I will #build a list of people who have successfully completed #100DaysOfCode
-* Will try to categorize according to different #100DaysOfX
-* If you have completed your challenge then just create a Pull request with title "Alumnae & Alumni Update".
+>> * Let's join the family of Alumni amd Alumnae.
+>> * You can find the Alumni and Alumnae of your field.
+>> * I have created a file [alumnae_alumni_list](alumnae_alumni_list.md) where I will #build a list of people who have successfully completed #100DaysOfCode
+>> * Will try to categorize according to different #100DaysOfX
+>> * If you have completed your challenge then just create a Pull request with title "Alumnae & Alumni Update".
 
 
 
@@ -50,11 +50,11 @@ I thought why not, let's do it. Let's show what we build using #100DaysOfBlockCh
 
 
 ##### My way of doing #100daysofcode & #100daysofblockchain
->> I code daily and must check-in my code.
->> I never increase my counter if my hours of code is less then 1-2 hours. or if it's not actually related to #100daysofblockchain.
->> Let's focus on quality work, instead of just focusing on increasing the counter.
->> I will be more then happy If I completes what I have decided, even in 120 days with #100 counter.
->> Focus on Quality and be happy. and literally u can skip one day to regain your focus on learning. But don't miss more then 1-2 days.
+>> - I code daily and must check-in my code.
+>> - I never increase my counter if my hours of code is less then 1-2 hours. or if it's not actually related to #100daysofblockchain.
+>> - Let's focus on quality work, instead of just focusing on increasing the counter.
+>> - I will be more then happy If I completes what I have decided, even in 120 days with #100 counter.
+>> - Focus on Quality and be happy. and literally u can skip one day to regain your focus on learning. But don't miss more then 1-2 days.
 
 
 ##### Review the Process
