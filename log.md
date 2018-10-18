@@ -26,6 +26,24 @@
 >> 17. IOT
 
 
+
+### Day 34: OCTOBER 18, 2018
+Day 34 | #100DaysOfCode | #100DaysOfBlockChain | #100DaysOfX
+
+Why #docker:  Containers isolate software from its environment and ensure that it works uniformly despite differences for instance between development and staging.  
+#abc_vi #CodeNewbie #Developer #GetUpgraded #codinglife
+
+
+
+### Day 33: OCTOBER 14, 2018
+Day 33| #100DaysOfCode | #100DaysOfBlockChain | #100DaysOfX  
+
+
+Success! Just solved Sock Merchant on @HackerRank. Can you complete the challenge? http://hr.gs/eabbdd #programming
+
+#abc_vi #CodeNewbie #Developer #coding #js  #webdev #coder #tech #javascript #jquery #hackerearth
+
+
 ### Day 32: OCTOBER 13, 2018
 Day 32 | #100DaysOfCode | #100DaysOfBlockChain | #100DaysOfX  
 
