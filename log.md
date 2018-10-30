@@ -1,4 +1,7 @@
 # 100 Days Of Code - Log
+
+> I Code daily, but I add to log, once I complete something to share.
+
 > -  #100DaysOfBLOCKCHAIN #100daysOfCode #100DaysOfX
 > - I am a BlockChain and Full Stack Web Developer. 
 > - I will be learining and Practicing below technologies/protocols.
@@ -25,6 +28,31 @@
 >> 16. ML
 >> 17. IOT
 
+
+### Day 37: October 31, 2018
+Day 37 | #100DaysOfCode | #100DaysOfBlockChain | #100DaysOfX 
+
+View my verified achievement from #IBM on #Acclaim. Thanks @CognitiveClass @IBMTraining 
+http://bit.ly/2qruxKZ 
+
+#Hyperledger #abc_vi #Developer #GetUpgraded #blockchain #blockchainedind #ibmdeveloper #ibmbadges #indiadev
+
+
+### Day 36: OCTOBER 23, 2018
+Day 36 | #100DaysOfCode | #100DaysOfBlockChain | #100DaysOfX 
+
+"Sharedledger, Smartcontracts, Privacy and Trust are the core requirements for a #businessblockchain"
+
+ @CognitiveClass #Hyperledger #BUIDL #abc_vi #CodeNewbie #Developer #GetUpgraded #codinglife #blockchain #freeCodeCamp
+
+
+### Day 35: OCTOBER 21, 2018
+Day 35 | #100DaysOfCode | #100DaysOfBlockChain | #100DaysOfX
+
+Explored Proof of Existence(PoE): A concept that publicly proves and authenticates any digital assets on the Blockchain by verifying the Hash.
+
+@proofxstence @poexio
+#abc_vi #CodeNewbie #Developer #GetUpgraded #codinglife
 
 
 ### Day 34: OCTOBER 18, 2018
