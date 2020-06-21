@@ -58,13 +58,14 @@ Always available at:
 
 # Link your own #100DaysOfCode profile
 * Steps to Link the profile. Feel free to use your innovation or way for adding the profile.
-    * Fork the repo or create a branch.
+    * Fork the repository.
     * Create a folder under profiles folder by your name. 
     * Copy the HTML template. You can use the template as: https://github.com/kushalseth/100-days-of-code/blob/master/profiles/kushalseth/kushal.html
     * Save that template in your desktop in .html format. 
     * Update the template according to your profile.
     * Open in any browser. Take a screenshot and add the screenshot in JPG folder like this: https://github.com/kushalseth/100-days-of-code/blob/master/profiles/kushalseth/profilecard.JPG 
     * Add your link under **Profiles of #100DaysOfCode** like this:  ![picture](https://github.com/kushalseth/100-days-of-code/blob/master/profiles/kushalseth/profilecard.JPG)
+    * Create a Pull Request.
 
 # Profiles of #100DaysOfCode
 
