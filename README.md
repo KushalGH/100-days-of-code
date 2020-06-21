@@ -1,111 +1,67 @@
-# I've joined the #100DaysOfCode #100DaysOfBlockChain Challenge
+# Kushal Seth
+![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `100DaysOfCode` ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) `#100DaysOfBlockchain` ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) `#abc_vi`
 
-# FORK ME 
+I am a Software Developer and very active in attending technical conferences and hackathons. You can find me posting online under #abc_vi, #knowmicrosoft, #100DaysOfAlgorithms and #100DaysOfBlockchain tags. I constantly work on my technical, behavioral and leadership skills.
 
+Join me in this journey by sharing your experiences and story. You can create a pull request to add your profile in the list of people following #100DaysOfCode.
 
-##### IS #100DaysOfCode for you 
+I have completed ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `100DaysOfCode` in 2018 once and now starting round 2 in ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) `2020`.
 
-Are you the one, then join me at #100DaysOfCode #100DaysOf: 
->> - You don't know code
->> - You don't know from where to start
->> - You are puzzled, what to do or from where to start
->> - Newbie
->> - Experienced and willing to start new thing
->> - Wants to learn something new.
+![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) `Join me in this journey by sharing your experiences and story. You can create a pull request or fork to add your profile in the list of people following #100DaysOfCode. List is at the bottom of page.` 
 
-##### BUILD YOUR OWN 100Days coding plan. My only suggestion is: 
->> "CODE ANYTHING AS SIMPLE AS PRINTING RESULTS ON CONSOLE. BUT CODE DAILY".
+#### Learnings in round 1 of #100DaysOfCode
+* It was a great experience when I started #100DaysOfCode in 2018. In that year I have worked mostly on blockchain and won hackathons.
+* If you are thinking, why you should connect with #100DaysOfCode, then I would suggest: 
+    * This helps you to keep in contact with like minded people. Really, now I am connected with lots of great technical people who are constantly working on themself. This always motivates me to move one step forward. 
+    * You will always be updated with latest in Technological world. You will find people working on new frameworks and technologies. 
+    * You will learn a habbit to work on yourself daily.
+* Worked on ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) `#100DaysOfBlockchain`
 
+#### Things to avoid If you are starting #100DaysOfCode for the first time
+* Don't open twitter or any social media before your daily work. First work for some time on yourself, or complete your daily task then you can check, what people are doing online.
+* Don't just check-in for the shack of check-in, It's totally fine not to checkin to GIT. It's not school, no-one is coming to cross check that you are doing check-ins daily. You will understand this sitiation more when you will start. Just remember: Important thing is you are coding daily for an hour.
+* Don't fool yourself and always review your progress weekly.
+ 
+#### Things that can help if you are starting #100DaysOfCode for the first time
+* Follow groups and people.
+* Create your social profiles on Stackoverflow, dev.to, git, twitter and coding platforms.
+* Tweets helps you to track what's new and try reading or studing from standard resources. You can get the standard resources list on many platforms.
+* Try solving technical questions and problems of people.  
 
-##### Can't forget to thanks @ka11away for #100DaysOfCode. [@ka11away](https://twitter.com/ka11away)
-
-
-##### IS #100DaysOfBlockChain for you 
-
-I thought why not, let's do it. Let's show what we build using #100DaysOfBlockChain on Twitter
->> - Blockchain is new. A lot to learn.
->> - You can find the community on Twitter. following #100DaysOfBlockChain
->> - What developers are doing on BlockChain
-
-
-##### Write your Progress and Tweet.
-
->> - Write your daily process to log file. [Log - click here to see my progress](log.md)
->> - Tweet using tag #100DaysOfCode or #100DaysOfBlockChain
-
-
-##### Join Hands with your Alumnus (Alumni) and Alumna (Alumnae)
->> * Let's join the family of Alumni amd Alumnae.
->> * You can find the Alumni and Alumnae of your field.
->> * I have created a file [alumnae_alumni_list](alumnae_alumni_list.md) where I will #build a list of people who have successfully completed #100DaysOfCode
->> * Will try to categorize according to different #100DaysOfX
->> * If you have completed your challenge then just create a Pull request with title "Alumnae & Alumni Update".
+#### Motivation behind starting round 2 of #100DaysOfCode
+* The most important thing that I have seen in my round 1 journey of #100DaysOfCode was my habbit of coding daily. and this is the biggest motivation to start round 2.
+* I am in the phase of uplifting my career from software developer to architect and I feel working daily on my skill sets will help me to achieve my goal.
+* Join me in this journey by sharing your experiences and story. You can create a pull request to add your profile in the list of people following #100DaysOfCode.
 
 
 
-#Notes:
->> - The Alumnus (Alumni) and Alumna (Alumnae) list file is not available in original Repo
->> - Review your Progress file is also not available in Original repo
+#### PROFESSIONAL SUMMARY:
+I love to code. Professionally, I am a 7+ years of experienced full stack developer having experience in developing enterprise and consumer focused applications using multiple design patterns both on front-end and back-end using cloud.
 
+#### MY ENTREPRENEURSHIP JOURNEY:
+I Follow few StartUp Schools: #YCombinator, #YourStory, #MicrosoftForStartups and #GoogleForStartups. In my free time, you can find me Working/Prototyping on some of these ideas:
+- Intelligent Social Media
+- Blockchain based Credit Bureau
+- AI Based Start Up Business Kit
+- Smart Social Media Feeds for Users
 
+Currently I am focusing on my Data Structure and Algorithms as I also want to join any one of these companies: #Microsoft #Amazon #Google #Tesla #SpaceX #Neuralink #NASA #Alphabet #Twitter #Linkedin #Netflix #facebook or #Uber.
 
-##### My way of doing #100daysofcode & #100daysofblockchain
->> - I code daily and must check-in my code.
->> - I never increase my counter if my hours of code is less then 1-2 hours. or if it's not actually related to #100daysofblockchain.
->> - Let's focus on quality work, instead of just focusing on increasing the counter.
->> - I will be more then happy If I completes what I have decided, even in 120 days with #100 counter.
->> - Focus on Quality and be happy. and literally u can skip one day to regain your focus on learning. But don't miss more then 1-2 days.
+I am a guy whose search history is filled with the videos of entrepreneurs / startups / motivational talks / standup comedy / blockchain / Quantum / Algorithms / architecture / hackathons / Microsoft. I Love life and enjoy to the fullest.
+Connect with me to know more about me.
 
+Always available at:
+**Twitter:** @KushalSeth14
+**Linkedin:** https://www.linkedin.com/in/sethkushal
+**Git:** https://github.com/kushalseth 
+**StackOverflow:** https://stackoverflow.com/users/4393351/kushal-seth
 
-##### Review the Process
+# Link your own #100DaysOfCode profile
+* Steps to Link the profile
+    * Fork the repo or create a branch.
+    * Create a profile card by adding a file of your name. Template:  https://github.com/KushalGH/startupacademy/blob/master/kushalseth.html
+    * Save that template in your desktop in .html format. 
+    * Open in any browser. Take a screenshot and add the screenshot in JPG folder like this: 
+    * Add your link under profiles like this:  ![picture](test)
 
->> - I would suggest to review your process after every 20 days. 
->> - I have created a new file: [reviewing my progress](reviewingtheprocess.md)
-
->> - REVIEW 1
-
-![images](images/001_review.png)
-
->> - Plan for next 25 days
-
-![images](images/002_review.png)
-
-
-
-## Contents
-
-* [Rules](rules.md)
-* [Log - click here to see my progress](log.md)
-* [FAQ](FAQ.md)
-* [Resources](resources.md)
-
-## Translations
-[español](intl/es/README.md) – [français](intl/fr/FAQ-fr.md) – [polski](intl/pl/README.md) - [русский](intl/ru/README-ru.md) - [português do Brasil](intl/pt-br/LEIAME.md) – [deutsch](intl/de/README.md) – [українська](intl/ua/README-ua.md) – [한국어](intl/ko/README-ko.md) – [中文](intl/ch/README.md)
-
-If you want to help by providing a translation of content/rules in the language you know, submit a pull request (or DM me on Twitter @ka11away), adding a sub-folder in the 'intl' folder with the files of the translation there.
-
-## If you've decided to join:
-
-0.  Check out [the Official Site](http://100daysofcode.com/) for the #100DaysOfCode movement. Connect with others on the platform of your choice from this list: www.100DaysOfCode.com/connect
-    Also, [here](https://join.slack.com/t/100xcode/shared_invite/enQtMzA2NzUyODY4MTgyLWM2NzMzYzBmZTcwOTk0MzM2YTI5OWQzM2M3ZTVjZTUyMTE0NDk3ZjdiZmExNGU5Mjg3ODgzZTQxODI3YTNjZjA) is a invite link to the 100DaysOfCode Slack channel
-1.  Read [Join the #100DaysOfCode](https://medium.freecodecamp.com/join-the-100daysofcode-556ddb4579e4)
-1.  Fork this repo and commit to the [Log](log.md) or to the Alternative, rapid [R1 Log](r1-log.md) (R1 stands for Round 1) daily. [Example](https://github.com/Kallaway/100-days-kallaway-log).
-1.  **Code minimum an hour every day for the next 100 days.**
-1.  **Encourage at least two other people in the challenge on Twitter every day! Pay it forward!**
-1.  Change the date in [Rules](rules.md) to the day you've started the challenge.
-1.  Delete the examples in the log, or comment them out, and start filling it with your own content.
-1.  **Tweet your progress every day using the #100DaysOfCode hashtag.**
-1.  Follow [100DaysOfCode](https://twitter.com/_100DaysOfCode) Twitter Bot that retweets the tweets that contain the #100DaysOfCode hashtag. It's a great way to keep yourself motivated and to participate in the community. Thanks [@amanhimself](https://twitter.com/amanhimself) for creating it!
-1.  Important: (see No.4 above for a specific rule on this) Encourage others who are doing the same challenge on Twitter or elsewhere - by giving them props when they are posting updates on their progress, supporting them when things get difficult. Thus we will grow a community that is helpful and effective, which will lead to a higher success rate for each person involved. It's also more likely that you will stick to your own commitment, given that you will get acquainted with a couple people (or more) right away.
-1.  If you find a great, helpful resource that others would benefit from, either submit a Pull Request to add it to the repo, or just tweet at me (see info below)
-
-## Want to change other habits?
-
-Check out [the #100DaysOfX Challenges Project](http://100daysofx.com/). Changing your habits you are changing your life. Remember that the best time to start is always NOW.
-
-I recommend that you commit to no more than 2-3 challenges at a time, ideally 2. If you are doing the #100DaysOfCode which involves a lot of mental activity, try the [#100DaysOfHealth](http://100daysofx.com/where-x-is/health/), or [#100DaysOfFitness](http://100daysofx.com/challenges/) challenges. There is so much more on the site, check all of them out and choose the ones you want to acquire! Languages, writing, meditation, journaling, cooking, and more!
-
-## Note
-
-* If you have any questions or ideas about 100DaysOfCode (or other ideas), feel free to reach out to me on Twitter: [@ka11away](https://twitter.com/ka11away)
-* If you like this repo and find it useful, please consider &#9733; starring it (on top right of the page) :)
+# Profiles of #100DaysOfCode
